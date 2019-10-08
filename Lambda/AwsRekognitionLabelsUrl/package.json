@@ -1,0 +1,16 @@
+{
+  "name": "DXM-AWS-Middleware-Lambda-RekognitionLabelsUrl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.542.0",
+    "lru-cache": "^5.1.1",
+    "request": "^2.88.0"
+  }
+}
