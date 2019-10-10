@@ -3,6 +3,11 @@
 # Surety 2019AUG29 Release
 Surety is a fictitious company, used to highlight Crownpeak's platform capabilities.
 
+## Contents
+
+| Release       | Notes |
+| ------------- | ------------- |
+| <a href="./Crownpeak-Content-Xcelerator℠/2019AUG29" target="_blank">2019AUG29</a>     | Models, Drag & Drop editing, DQM (Pre-Publishing Checks), Integrations, Marketo Email Template, Marketo Lead Generation, Salesforce Chat, SnatchBot, Disqus , Twitter (Social Media), Digital Asset Manager (DAM), Editorial Experience |
 
 ## Configuration Steps (with <a href="https://github.com/crownpeak/content-xcelerator" target="_blank">Crownpeak Content Xcelerator℠</a>)
  1) Download <a href="https://github.com/crownpeak/content-xcelerator" target="_blank">Crownpeak Content Xcelerator℠</a> and
