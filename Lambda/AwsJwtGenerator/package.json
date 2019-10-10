@@ -1,5 +1,5 @@
 {
-  "name": "DXM-AWS-Middleware-Lambda-JWTGenerator",
+  "name": "AwsJWTGenerator",
   "version": "1.0.0",
   "description": "",
   "main": "./index.js",

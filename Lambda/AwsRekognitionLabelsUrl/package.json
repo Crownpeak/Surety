@@ -1,5 +1,5 @@
 {
-  "name": "DXM-AWS-Middleware-Lambda-RekognitionLabelsUrl",
+  "name": "AwsRekognitionLabelsUrl",
   "version": "1.0.0",
   "description": "",
   "main": "./index.js",
