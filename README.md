@@ -7,4 +7,5 @@ Surety is a fictitious company, used to highlight Crownpeak's platform capabilit
 
 | Release       | Notes |
 | ------------- | ------------- |
+| <a href="./Crownpeak-Content-Xcelerator℠/2019NOV18" target="_blank">2019NOV18</a>     | ProCam Campaign Launch, Segment Integration for ProCam Campaign |
 | <a href="./Crownpeak-Content-Xcelerator℠/2019AUG29" target="_blank">2019AUG29</a>     | Models, Drag & Drop editing, DQM (Pre-Publishing Checks), Integrations, Marketo Email Template, Marketo Lead Generation, Salesforce Chat, SnatchBot, Disqus , Twitter (Social Media), Digital Asset Manager (DAM), Editorial Experience |
